@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0",
+    "uuid": "^9.0.1"
+  },
+  "scripts": {
+    "start": "nodemon expressApp.js"
+  },
+  "name": "server_class",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
